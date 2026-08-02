@@ -1,2 +1,1 @@
-# project-1
-Student Performance Analysis
+AIML (Group-1) Projects
